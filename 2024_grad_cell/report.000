@@ -1,0 +1,22 @@
+
+FTP account:                       B00041
+
+Level:                             D
+CYCLE:                             8ns  , clock period , defined in tb.sv
+Time:                              TB1:38380.00ns / TB2:56300.00ns / TB3:126804.00ns
+Power:                             x
+Area:                              x
+MAX_CYCLE_PER_PATTERN              50000, defined in tb.sv
+
+--- RTL category---
+HDL simulator :                    irun 
+RTL filename :                     Bicubic.v  , DW_div.v , DW_div_function.inc , ImgROM.v , ResultSRAM.v         
+
+--- Pre-layout gate-level ---
+gate-levelfilename:                Bicubic_syn.v  
+gate-level sdf filename:           Bicubic_syn.sdf        
+gate-level spef filename:          Bicubic_syn.spef       
+
+-----(annotation)--------------------------------------------------------
+ (optional, write down anything that you want raters know)
+Complete horizontal interpolation.

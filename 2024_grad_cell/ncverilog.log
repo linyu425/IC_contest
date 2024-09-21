@@ -1,0 +1,69 @@
+ncverilog(64): 15.20-s084: (c) Copyright 1995-2020 Cadence Design Systems, Inc.
+TOOL:	ncverilog	15.20-s084: Started on Mar 27, 2024 at 10:12:02 CST
+ncverilog
+	tb.sv
+	Bicubic.v
+	+define+P1
+	+access+r
+	+nc64bit
+file: Bicubic.v
+	module worklib.Bicubic:v
+		errors: 0, warnings: 0
+		Caching library 'worklib' ....... Done
+	Elaborating the design hierarchy:
+ncelab: *W,DSEMEL: This SystemVerilog design will be simulated as per IEEE 1800-2009 SystemVerilog simulation semantics. Use -disable_sem2009 option for turning off SV 2009 simulation semantics.
+	Building instance overlay tables: ..........
+	$readmemb("ImgROM.rcf", mem );
+	                          |
+ncelab: *W,MEMODR (./ImgROM.v,130|27): $readmem default memory order incompatible with IEEE1364.
+.......... Done
+	Generating native compiled code:
+		worklib.Bicubic:v <0x2ec752ec>
+			streams:   9, words:  2476
+		worklib.ImgROM:v <0x3df2ac4d>
+			streams:  13, words:  6492
+		worklib.ResultSRAM:v <0x78ee5791>
+			streams:  16, words: 10379
+		worklib.testfixture:sv <0x0b3def63>
+			streams:  32, words: 45683
+	Building instance specific data structures.
+	Loading native compiled code:     .................... Done
+	Design hierarchy summary:
+		                 Instances  Unique
+		Modules:                 4       4
+		Primitives:             57       1
+		Timing outputs:         16       1
+		Registers:             136     136
+		Scalar wires:           24       -
+		Expanded wires:         16       2
+		Vectored wires:         12       -
+		Always blocks:          10      10
+		Initial blocks:         10      10
+		Cont. assignments:       9      11
+		Pseudo assignments:      7       7
+		Timing checks:         162       1
+		Simulation timescale:  1ps
+	Writing initial simulation snapshot: worklib.testfixture:sv
+Loading snapshot worklib.testfixture:sv .................... Done
+ncsim: *W,DSEM2009: This SystemVerilog design is simulated as per IEEE 1800-2009 SystemVerilog simulation semantics. Use -disable_sem2009 option for turning off SV 2009 simulation semantics.
+*Verdi* Loading libsscore_ius152.so
+ncsim> source /usr/cad/cadence/INCISIV/cur/tools/inca/files/ncsimrc
+ncsim> run
+FSDB Dumper for IUS, Release Verdi_Q-2020.03, Linux x86_64/64bit, 02/09/2020
+(C) 1996 - 2020 by Synopsys, Inc.
+*Verdi* : Create FSDB file 'Bicubic.fsdb'
+*Verdi* : Begin traversing the scopes, layer (0).
+*Verdi* : End of traversing.
+*Verdi* : Begin traversing the MDAs, layer (0).
+*Verdi* : Enable +mda and +packedmda dumping.
+*Verdi* : End of traversing the MDAs.
+*******************************
+** Simulation Start          **
+*******************************
+
+     28.00 ns , ERROR, DONE is in unknown state. Simlation terminated
+
+Simulation complete via $finish(1) at time 28 NS + 0
+./tb.sv:182                     $finish;
+ncsim> exit
+TOOL:	ncverilog	15.20-s084: Exiting on Mar 27, 2024 at 10:12:03 CST  (total: 00:00:01)

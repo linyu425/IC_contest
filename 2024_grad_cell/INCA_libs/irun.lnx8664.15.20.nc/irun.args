@@ -1,0 +1,14 @@
+//
+// File created by:  irun
+// Do not modify this file
+//
+tb.sv
+Bicubic.v
+-v
+ImgROM.v
+-v
+ResultSRAM.v
++define+P1
++access+r
+-clean
++nc64bit

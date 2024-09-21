@@ -1,0 +1,1 @@
+s1(27Mar2024:20:21:12):  irun tb.sv Bicubic.v -v ImgROM.v -v ResultSRAM.v +define+P1 +access+r -clean +nc64bit 

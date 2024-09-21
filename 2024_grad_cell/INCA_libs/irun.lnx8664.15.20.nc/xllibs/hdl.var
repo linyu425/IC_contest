@@ -1,0 +1,4 @@
+define LIB_MAP ( $LIB_MAP \
+, ../../../ResultSRAM.v => ResultSRAM \
+, ../../../ImgROM.v => ImgROM \
+)

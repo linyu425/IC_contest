@@ -1,0 +1,161 @@
+Warning: Design 'Bicubic' has '3' unresolved references. For more detailed information, use the "link" command. (UID-341)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+Error: Could not read the following target libraries:
+ImgROM_slow.db ResultSRAM_slow.db 
+ (UIO-3)
+Information: Checking out the license 'DesignWare'. (SEC-104)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+Information: Changed wire load model for 'alt1' from '(none)' to 'tsmc13_wl10'. (OPT-170)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+Information: Changed wire load model for 'apparch' from '(none)' to 'tsmc13_wl10'. (OPT-170)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+Information: Changed wire load model for 'alt1' from '(none)' to 'tsmc13_wl10'. (OPT-170)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+Information: Changed wire load model for 'apparch' from '(none)' to 'tsmc13_wl10'. (OPT-170)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+Information: Changed wire load model for 'alt1' from '(none)' to 'tsmc13_wl10'. (OPT-170)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+Information: Changed wire load model for 'apparch' from '(none)' to 'tsmc13_wl10'. (OPT-170)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+Information: Changed wire load model for 'alt1' from '(none)' to 'tsmc13_wl10'. (OPT-170)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+Information: Changed wire load model for 'apparch' from '(none)' to 'tsmc13_wl10'. (OPT-170)
+Information: Changed wire load model for 'alt1' from '(none)' to 'tsmc13_wl10'. (OPT-170)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+Information: Changed wire load model for 'apparch' from '(none)' to 'tsmc13_wl10'. (OPT-170)
+Information: Changed wire load model for 'alt1' from '(none)' to 'tsmc13_wl10'. (OPT-170)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+Information: Changed wire load model for 'apparch' from '(none)' to 'tsmc13_wl10'. (OPT-170)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+Information: Changed wire load model for 'alt1' from '(none)' to 'tsmc13_wl10'. (OPT-170)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+Information: Changed wire load model for 'apparch' from '(none)' to 'tsmc13_wl10'. (OPT-170)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+Information: Changed wire load model for 'alt1' from '(none)' to 'tsmc13_wl10'. (OPT-170)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+Information: Changed wire load model for 'apparch' from '(none)' to 'tsmc13_wl10'. (OPT-170)
+Information: Changed wire load model for 'alt1' from '(none)' to 'tsmc13_wl10'. (OPT-170)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+Information: Changed wire load model for 'apparch' from '(none)' to 'tsmc13_wl10'. (OPT-170)
+Information: Changed wire load model for 'alt1' from '(none)' to 'tsmc13_wl10'. (OPT-170)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+Information: Changed wire load model for 'apparch' from '(none)' to 'tsmc13_wl10'. (OPT-170)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+Information: Changed wire load model for 'alt1' from '(none)' to 'tsmc13_wl10'. (OPT-170)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+Information: Changed wire load model for 'apparch' from '(none)' to 'tsmc13_wl10'. (OPT-170)
+Information: Changed wire load model for 'alt1' from '(none)' to 'tsmc13_wl10'. (OPT-170)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+Information: Changed wire load model for 'apparch' from '(none)' to 'tsmc13_wl10'. (OPT-170)
+Information: Changed wire load model for 'alt1' from '(none)' to 'tsmc13_wl10'. (OPT-170)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+Information: Changed wire load model for 'apparch' from '(none)' to 'tsmc13_wl10'. (OPT-170)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+Information: Changed wire load model for 'alt1' from '(none)' to 'tsmc13_wl10'. (OPT-170)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+Information: Changed wire load model for 'apparch' from '(none)' to 'tsmc13_wl10'. (OPT-170)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ImgROM_slow.db'. (UID-3)
+Warning: Can't read link_library file 'ResultSRAM_slow.db'. (UID-3)
+ 
+****************************************
+Report : area
+Design : Bicubic
+Version: T-2022.03
+Date   : Wed Mar 27 20:09:03 2024
+****************************************
+
+Information: Updating design information... (UID-85)
+Library(s) Used:
+
+    gtech (File: /home/nfs_cad/synopsys/synthesis/cur/libraries/syn/gtech.db)
+
+Number of ports:                        13853
+Number of nets:                         91593
+Number of cells:                        57197
+Number of combinational cells:          56327
+Number of sequential cells:               433
+Number of macros/black boxes:               0
+Number of buf/inv:                       4848
+Number of references:                      75
+
+Combinational area:                  0.000000
+Buf/Inv area:                        0.000000
+Noncombinational area:               0.000000
+Macro/Black Box area:                0.000000
+Net Interconnect area:         6295878.411499
+
+Total cell area:                     0.000000
+Total area:                    6295878.411499
+
+Information: This design contains unmapped logic. (RPT-7)
+Information: This design contains black box (unknown) components. (RPT-8)
+1
